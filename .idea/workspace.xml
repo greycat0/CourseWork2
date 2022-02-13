@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4133c0e-6db1-4d8b-8ad7-f591bde2f163" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Yj5fgqrItwZKXLFljIFjwJQmkC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="e" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/usr/lib/jvm/java-13-jdk" />
+      <option name="MAIN_CLASS_NAME" value="sun.rmi.rmic.Main" />
+      <module name="eNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4133c0e-6db1-4d8b-8ad7-f591bde2f163" name="Default Changelist" comment="" />
+      <created>1583443268002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583443268002</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="0" width="1084" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583444345727">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="183" y="0" width="1084" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.736@0.0.1366.736" timestamp="1583444345727" />
+    <state x="466" y="76" width="434" height="588" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583443785010">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="466" y="76" width="434" height="588" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.736@0.0.1366.736" timestamp="1583443785010" />
+    <state x="415" y="155" width="535" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583444151478">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="415" y="155" width="535" height="430" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.736@0.0.1366.736" timestamp="1583444151478" />
+    <state x="529" y="260" width="308" height="220" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583443486628">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="529" y="260" width="308" height="220" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.736@0.0.1366.736" timestamp="1583443486628" />
+    <state x="466" y="126" width="434" height="488" key="FileChooserDialogImpl" timestamp="1583444298019">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="466" y="126" width="434" height="488" key="FileChooserDialogImpl/0.0.1366.736@0.0.1366.736" timestamp="1583444298019" />
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1583444368401">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1583444368401" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1583444368401">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1583444368401" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1583444368400">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1583444368400" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1583444368401">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1583444368401" />
+    <state x="187" y="2" width="992" height="734" key="SettingsEditor" timestamp="1583443908522">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="187" y="2" width="992" height="734" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1583443908522" />
+    <state x="357" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1583443970408">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="357" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1583443970408" />
+  </component>
+</project>

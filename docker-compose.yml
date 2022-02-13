@@ -1,0 +1,26 @@
+{
+    version: '3.3',
+
+    services: {
+        app: {
+            build: {
+                context: '.',
+                dockerfile: 'app/Dockerfile'
+            },
+            image: 'greycat9515/enote',
+            depends_on: ['db'],
+            ports: ['80:80'],
+            #restart: 'always',
+            command: 'java -jar enote-1.0.jar'
+        },
+        db: {
+            image: 'postgres',
+            environment: {
+                POSTGRES_DB: 'enote',
+                POSTGRES_USER: 'admin',
+                POSTGRES_PASSWORD: 'verydiffucultpassword'
+            },
+            #restart: 'always'
+        },
+    }
+}
